@@ -1,3 +1,5 @@
 Line 1: Original content
 Line 2: Original content
 Line 3: Added in second commit
+Line 4: Staged change
+Line 5: Working directory change
